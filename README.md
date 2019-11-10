@@ -1,7 +1,7 @@
 # Contact `imgg`
 In very extreme cases the communication between you and me might be censored, interceptted, or limited. Below are alternative ways to communicate with me via unnormal communication medium and/or encoding methods.
 
-> This repo will be archived and the master branch will be locked to minimize the effect that an intruder may bring
+> The master branch of this repo will be locked to minimize the effect that an intruder may bring
 
 ### Contact with...
 - [Issues of this repository](https://github.com/GalvinGao/contact/issues) (you may want to use the GPG public key provided below to encrypt your message before you create a new issue)
